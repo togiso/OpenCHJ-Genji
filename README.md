@@ -12,8 +12,8 @@ XMLをもとに解析対象としないテキストを空要素の属性値に�
   **[源氏物語の世界 再編集版](https://www.genji-monogatari.net/)**：© 2003, 2024 宮脇文経  
 
 ## 形態論情報について
-形態論情報は **[中古和文UniDic](https://clrd.ninjal.ac.jp/unidic/download_all.html#unidic_wabun) ver.2024** を使用して短単位に解析し、  
-**小木曽智信**が解析エラーを修正したものです。
+形態論情報は **[中古和文UniDic](https://clrd.ninjal.ac.jp/unidic/download_all.html#unidic_wabun) ver.2024** を使用して短単位に解析し、エラーを修正したものです。
 
 ### ライセンス
-- 形態論情報：**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** BY 小木曽智信
+- 形態論情報：**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** BY **小木曽智信**
+- 本文自体のライセンスについては上記のオリジナルサイトを参照してください。
