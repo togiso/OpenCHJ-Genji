@@ -12,7 +12,9 @@
   **[源氏物語の世界 再編集版](https://www.genji-monogatari.net/)**：© 2003, 2024 宮脇文経  
 
 ## 形態論情報について
-形態論情報は **[中古和文UniDic](https://clrd.ninjal.ac.jp/unidic/download_all.html#unidic_wabun) ver.2024** を使用して短単位に解析し、エラーを修正したものです。
+形態論情報は **[中古和文UniDic](https://clrd.ninjal.ac.jp/unidic/download_all.html#unidic_wabun) ** を使用して短単位に解析し、エラーを修正したものです。
+
+「桐壺」以外の修正は十分ではなく、誤りが含まれていますが、語彙素認定（境界・見出し語・品詞・活用形の全てが正解）のレベルにおいて概ね98～99％の精度で解析されています。
 
 ## ライセンス
 - 形態論情報：**[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)** BY **小木曽智信**
